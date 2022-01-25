@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**isurukavinda99/isurukavinda99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋, my name is Isuru Kavinda
+#### I am Isuru Kavinda,Software Engineering Undergraduate Student at SLIIT.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on <b>Spring boot micro finance application</b>
+- 🌱 I’m currently learning <b>Java, Docker, React, Amgular</b>
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+- 💬 Ask me about <b>Java and Spring boot</b>
+- 📫 How to reach me <b>isurukavinda999@gmail.com</b>
+<!-- - 😄 Pronouns: ... -->
+<!-- - ⚡ Fun fact: ... -->
+
+### Contact with me
+
