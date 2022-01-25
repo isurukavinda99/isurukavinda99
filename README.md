@@ -2,9 +2,6 @@
 ## Hi there 👋, my name is Isuru Kavinda
 #### I am Isuru Kavinda,Software Engineering Undergraduate Student at SLIIT.
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on <b>Spring boot micro finance application</b>
 - 🌱 I’m currently learning <b>Java, Docker, React, Amgular</b>
 <!-- - 👯 I’m looking to collaborate on ... -->
