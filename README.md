@@ -12,7 +12,7 @@
 <!-- - ⚡ Fun fact: ... -->
 
 ### Contact me:
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />](www.linkedin.com/in/isuru-kavinda-255738207)
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasith-wimukthi-116307189" height="40" width="40" /></a>
 
 ### Languages:
 <p align="left"> 
