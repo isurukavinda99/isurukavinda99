@@ -12,7 +12,7 @@
 <!-- - ⚡ Fun fact: ... -->
 
 ### Contact me:
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasith-wimukthi-116307189" height="40" width="40" /></a>
+<a href="www.linkedin.com/in/isuru-kavinda-255738207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isuru-kavinda-255738207" height="40" width="40" /></a>
 
 ### Languages and Frameworks:
 <p align="left"> 
