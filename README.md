@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kavinda</h1>
-<h3 align="center">A passionate software engineer and Undergraduate Student at SLIIT</h3>
+<h3 align="center">A passionate software engineer and Graduated at SLIIT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isurukavinda99&label=Profile%20views&color=0e75b6&style=flat" alt="isurukavinda99" /> </p>
 
